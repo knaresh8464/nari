@@ -1,0 +1,12 @@
+python code:
+check palindrom are not
+
+while True:
+  s1=input("input text:")
+  s2=input("input text:")
+  if s1==s2[::-1]:
+      print("this is palindrom")
+  else:
+      print("this is not palindrom")
+      
+  
